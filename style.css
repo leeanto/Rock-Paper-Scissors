@@ -5,6 +5,8 @@ body {
     font-size: 30px;
     font-weight: bold;
     margin: 0;
+    align-content: center;
+    justify-items: center;
 }
 
 .move-img {
